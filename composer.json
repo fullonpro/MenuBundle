@@ -1,0 +1,14 @@
+{
+    "name": "fullonpro/menu-bundle",
+    "description": "Universal menu builder for Symfony2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Suvorkov",
+            "email": "olegsuvorkov@gmail.com"
+        }
+    ],
+    "require": {
+	"fullonpro/menu": "dev-master"
+    }
+}
